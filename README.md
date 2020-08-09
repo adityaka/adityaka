@@ -3,7 +3,7 @@
 ## Professional Snapshot
 Software professional with breadth of experiences in 
 - Software Sustenance (Reliability and Servicability) 
-- Software Engineering
+- Software Development
 - Managing and Leading Software Engineering Teams
 - Technical Support and Debugging
 
