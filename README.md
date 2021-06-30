@@ -1,17 +1,20 @@
 # Aditya Kapur
 
 ## Professional Snapshot
-Software professional with breadth of experiences in 
-- Software Sustenance (Reliability and Servicability) 
-- Software Development
-- Managing and Leading Software Engineering Teams
-- Technical Support and Debugging
+Software professional with breadth of experiences
+- Managing and Leading Software Engineering Teams @Catchpoint and earlier @Qubole
+- Software Engineer in various capacities such as Sustenance, Linux and Windows Platforms, Product and Application Security @ HCL, Dell EMC and Citrix
+- IT Administrator @ iGATE 
+- Technical Support Engineer @ Convergys and Microsoft 
 
+For More feel free to explore my 
 ### Linkedin Profile 
 https://www.linkedin.com/in/adityankapur/
 
+Technical content and some of my thoughts are available at:
 
-
+### Read my gists
+https://gist.github.com/adityaka
 
 
 <!--
