@@ -5,6 +5,18 @@
 |<a href="https://linkedin.com/in/adityankapur">Linkedin Profile</a> | <a href="https://github.com/adityaka"> Github </a>|
 </span>
 
+## Summary
+
+A passionate technical leader, who strives to learn and serves the team to attain it's potential. Passionate about setting up or refining current development or sustenance processes and use analytics to bring communicate SLI/SLOs and OKRs. Improve software quality and lead the team to build customer focused features or enhancements. 
+
+### Areas Expertise
+ - REST API design using Python/Flask or .NET 6.0
+ - Backend applications using C/C++. Boost and ACE
+ - AWS Cloud and Enterprise Infrastructure management using IAC tools and Container Orchestrations
+ - Threat Modelling and Security Compliance Pipline design with Jenkins, Sonar, Blackduck etc.
+ - PowerBI reoprts and Dashboards
+ - SCRUM and Kanban process and project management
+
 ## Professional Experience
 
 - June 2021 : Current   **Engineering Manager Escalations at Catchpoint Systems**
