@@ -7,7 +7,7 @@
 
 ## Summary
 
-A passionate technical leader, who strives to learn and serves the team to attain it's potential. Passionate about setting up or refining current development or sustenance processes and use analytics to bring communicate SLI/SLOs and OKRs. Improve software quality and lead the team to build customer focused features or enhancements. 
+A passionate technical leader, who strives to learn and serves the team to attain it's potential. Passionate about setting up or refining current development or sustenance processes and use analytics to communicate SLI/SLOs and OKRs. Improve software quality and lead the team to build customer focused features or enhancements. 
 
 ### Areas Expertise
  - REST API design using Python/Flask or .NET 6.0
