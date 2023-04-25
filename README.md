@@ -2,7 +2,7 @@
 # Aditya N Kapur
 
 <span align="center">
-| Email : <a href="mailto:adityaka@live.com">adityaka@live.com</a> | Phone : <a href="call:+917760989124"> 7760989124</a> | <a href="https://linkedin.com/in/adityankapur">Linkedin Profile</a> | <a href="https://github.com/adityaka"> Github </a>|
+|<a href="https://linkedin.com/in/adityankapur">Linkedin Profile</a> | <a href="https://github.com/adityaka"> Github </a>|
 </span>
 
 ## Professional Experience
