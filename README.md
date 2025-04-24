@@ -1,4 +1,4 @@
-![enter image description here](https://media.licdn.com/dms/image/D5603AQFWrU-nGhx01g/profile-displayphoto-shrink_200_200/0/1673611166469?e=1687996800&v=beta&t=wVnvBaTHeQmg2MRQ_98MuIMuVMe-zDDUOC39FQ-EUj8)
+![enter image description here]([https://media.licdn.com/dms/image/D5603AQFWrU-nGhx01g/profile-displayphoto-shrink_200_200/0/1673611166469?e=1687996800&v=beta&t=wVnvBaTHeQmg2MRQ_98MuIMuVMe-zDDUOC39FQ-EUj8](https://media.licdn.com/dms/image/v2/D5603AQFQkRnebVaAtQ/profile-displayphoto-shrink_800_800/B56ZUqJI_hGUAc-/0/1740168794629?e=1750896000&v=beta&t=8F8c3Ezlo9uAqu4JqhMQkreyr2ruWw6JkbP_V14mT8o)
 # Aditya N Kapur
 
 <span align="center">
