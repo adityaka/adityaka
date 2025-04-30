@@ -1,4 +1,3 @@
-<script defer src='https://cpqa.catchpoint.com/jp/191947/latest/InitialLoadScript.js'></script>
 <img src="https://media.licdn.com/dms/image/v2/D5603AQFQkRnebVaAtQ/profile-displayphoto-shrink_800_800/B56ZUqJI_hGUAc-/0/1740168794629?e=1750896000&v=beta&t=8F8c3Ezlo9uAqu4JqhMQkreyr2ruWw6JkbP_V14mT8o"/> 
 # Aditya N Kapur
 
